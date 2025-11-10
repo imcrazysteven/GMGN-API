@@ -2,7 +2,7 @@
 This is the API for the GMGN.AI platform that allows users to view the trending tokens by various criteria.
 
 <p align="center">
-  <img src="https://github.com/steven228312/GMGN-API/blob/main/public/gmgn.PNG" alt="GMGN_Trending_Image">
+  <img src="https://github.com/imcrazysteven/GMGN-API/blob/main/public/gmgn.PNG" alt="GMGN_Trending_Image">
 </p>
 
 `https://gmgn.ai/defi/quotation/v1/rank/{chain}/swaps/{time_period}?&orderby={criteria}&direction={direction}&filters[]=not_honeypot&filters[]=verified&filters[]=renounced`
@@ -390,12 +390,14 @@ Feel free to submit issues and enhancement requests!
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## Contact Information
+## 📞 Contact & Support
 
-- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
-- Telegram: [@steven228312](https://t.me/steven228312)
-- Twitter: [@steven228312](https://twitter.com/steven228312)
-- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
 
 
